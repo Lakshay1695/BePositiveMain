@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#e14366</color>
+    <color name="color">#aca7a9</color>
+    <color name="colorq">#ffffff</color>
+    <color name="colo">#1e1d1d</color>
+    <color name="col">#000000</color>
+    <color name="red">#eb3434</color>
+    <color name="reddark">#b70202</color>
+    <color name="redlight">#ff4a4a</color>
+
+
+</resources>
